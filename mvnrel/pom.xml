@@ -30,8 +30,6 @@
 
 		<connection>scm:git:http://github.com/childrenof/relscmp.git</connection>
 		<developerConnection>scm:git:http://github.com/childrenof/relscmp.git</developerConnection>
-
-	  <tag>HEAD</tag>
   </scm>
 
 	<build>
