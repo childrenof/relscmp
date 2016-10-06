@@ -17,13 +17,12 @@
 
 	<scm>
 		<url>https://github.com/childrenof/relscmp</url>
-		<connection>scm:git:https://github.com/childrenof/relscmp.git</connection>
-		<developerConnection>scm:git:https://git@github.com:childrenof/relscmp.git</developerConnection>
+<!-- 		<connection>scm:git:https://github.com/childrenof/relscmp.git</connection> -->
+<!-- 		<developerConnection>scm:git:https://git@github.com:childrenof/relscmp.git</developerConnection> -->
 		
 		
-<!-- 		<connection>scm:git:https://username@github.com/my-project.git</connection> -->
-<!--       	<developerConnection>scm:git:https://username@github.com/my-project.git</developerConnection> -->
-    <tag>HEAD</tag>
+		<connection>scm:git:https://childrenof@github.com/relscmp.git</connection>
+      	<developerConnection>scm:git:https://childrenof@github.com/relscmp.git</developerConnection>
   </scm>
 
 	<build>
