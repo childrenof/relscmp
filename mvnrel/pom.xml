@@ -29,8 +29,8 @@
 		<!-- <connection>scm:git:https://childrenof@github.com/childrenof/relscmp.git</connection> -->
 		<!-- <developerConnection>scm:git:https://childrenof@github.com/childrenof/relscmp.git</developerConnection> -->
 
-		<connection>scm:git:https://github.com/childrenof/relscmp.git</connection>
-		<developerConnection>scm:git:https://github.com/childrenof/relscmp.git</developerConnection>
+		<connection>scm:git:http://github.com/childrenof/relscmp.git</connection>
+		<developerConnection>scm:git:http://github.com/childrenof/relscmp.git</developerConnection>
 
 	</scm>
 
